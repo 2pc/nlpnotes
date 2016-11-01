@@ -1,5 +1,5 @@
 # nlpnotes
-some notes for LTP  ansj  etc.
+some sample for LTP  ansj ...  etc.
 ```
 echo "# nlpnotes" >> README.md
 git init
